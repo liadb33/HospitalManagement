@@ -1,5 +1,7 @@
 # 🏥 Hospital Management System in C
 
+![Screenshot 2024-09-05 150344](https://github.com/user-attachments/assets/e6bfdd5c-73ea-4e98-8ebe-812074754326)
+
 ## 📋 Project Overview
 
 This robust Hospital Management System, developed in C, efficiently handles various hospital operations including management of departments, doctors, patients, and treatments. Built with modularity in mind, it features a user-friendly menu-driven command-line interface and supports both text and binary file storage for data persistence.
@@ -63,7 +65,7 @@ Ensuring data availability for future sessions.
 
 ### Images
 
-![Screenshot 2024-09-05 150344](https://github.com/user-attachments/assets/e6bfdd5c-73ea-4e98-8ebe-812074754326)
+
 ![Screenshot 2024-09-05 150330](https://github.com/user-attachments/assets/ee16f3cd-c042-4b45-8c49-691b1f405b1a)
 ![Screenshot 2024-09-05 150323](https://github.com/user-attachments/assets/0de3aa86-54c0-485e-8cf0-19c6976e4ce7)
 ![Screenshot 2024-09-05 150311](https://github.com/user-attachments/assets/325fcab7-c13e-4d93-8fb2-c44723fa1f0c)
